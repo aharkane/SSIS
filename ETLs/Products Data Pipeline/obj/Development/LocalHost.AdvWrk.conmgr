@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.AdvWrk"
+  DTS:DTSID="{72192DD2-23EB-4DB3-BEF4-A67BE0C642E8}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.;Initial Catalog=AdvWrk;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Package1-{72192DD2-23EB-4DB3-BEF4-A67BE0C642E8}LocalHost.AdvWrk;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

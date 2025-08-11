@@ -1,0 +1,2 @@
+ProductID,ProductName,SupplierID,CategoryID,QuantityPerUnit,UnitPrice,UnitsInStock,UnitsOnOrder,ReorderLevel,Discontinued
+79,Jon Snow new,5,9,24 boxes x 6 bags,55,40,0,10,True
